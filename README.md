@@ -12,7 +12,6 @@ It fetches real-time weather through API.
 ## Installation
 
 Clone this repository to your PC.
-
 <br><br>
 
 Run the following commands:
@@ -21,7 +20,7 @@ Run the following commands:
 npm i
 node index.js
 ```
-
+<br>
 Note: You will need an OpenWeather account for this project.
 <br> <br>
 Regards,
