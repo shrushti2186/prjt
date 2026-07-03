@@ -2,7 +2,6 @@
 A weather app.
 <br>
 It fetches real-time weather through API.
-
 <br> <br>
 
 ## Screenshot
@@ -13,9 +12,11 @@ It fetches real-time weather through API.
 Clone this repository to your PC.
 <br>
 Run the following commands:
-bash
+<br>
 npm i
+<br>
 node index.js
+<br>
 
 Note: You will need an OpenWeather account for this project.
 <br> <br>
