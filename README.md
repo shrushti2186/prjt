@@ -10,7 +10,7 @@ It fetches real-time weather through API.
 
 ## Installation
 Clone this repository to your PC.
-<br>
+<br> <br>
 Run the following commands:
 <br>
 npm i
